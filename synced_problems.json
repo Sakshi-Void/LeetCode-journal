@@ -1,3 +1,5 @@
 [
-  "two-sum"
+  "generate-parentheses",
+  "two-sum",
+  "valid-parentheses"
 ]
