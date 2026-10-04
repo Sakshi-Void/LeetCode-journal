@@ -2,8 +2,8 @@ name: Sync LeetCode Progress
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch:         # lets you also trigger it manually from GitHub
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,13 +23,10 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run sync script
-        run: python sync_leetcode.py
-
-      - name: Commit and push if there are changes
+      - name: Configure Git
         run: |
           git config user.name "Sakshi-Void"
           git config user.email "211979199+Sakshi-Void@users.noreply.github.com"
-          git add progress.md synced_problems.json
-          git diff --staged --quiet || git commit -m "Auto-sync LeetCode progress"
-          git push
+
+      - name: Run sync script
+        run: python sync_leetcode.py
