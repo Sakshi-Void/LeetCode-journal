@@ -1,3 +1,4 @@
 - **Two Sum** — solved on 2026-09-28 07:00
 - **Generate Parentheses** — solved on 2026-10-02 13:18
 - **Valid Parentheses** — solved on 2026-10-02 13:17
+- **Longest Valid Parentheses** — solved on 2026-10-04 17:39
