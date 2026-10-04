@@ -2,3 +2,4 @@
 - **Generate Parentheses** — solved on 2026-10-02 13:18
 - **Valid Parentheses** — solved on 2026-10-02 13:17
 - **Longest Valid Parentheses** — solved on 2026-10-04 17:39
+- **Valid Parenthesis String** — solved on 2026-10-04 17:41

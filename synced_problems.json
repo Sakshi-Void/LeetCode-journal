@@ -2,5 +2,6 @@
   "generate-parentheses",
   "longest-valid-parentheses",
   "two-sum",
-  "valid-parentheses"
+  "valid-parentheses",
+  "valid-parenthesis-string"
 ]
