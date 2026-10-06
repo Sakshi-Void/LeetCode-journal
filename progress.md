@@ -5,3 +5,4 @@
 - **Valid Parenthesis String** — solved on 2026-10-04 17:41
 - **Score of Parentheses** — solved on 2026-10-05 08:44
 - **Add Two Numbers** — solved on 2026-10-05 08:48
+- **Minimum Add to Make Parentheses Valid** — solved on 2026-10-06 08:27
