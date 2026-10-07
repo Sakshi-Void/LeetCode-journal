@@ -3,6 +3,7 @@
   "generate-parentheses",
   "longest-valid-parentheses",
   "minimum-add-to-make-parentheses-valid",
+  "remove-invalid-parentheses",
   "score-of-parentheses",
   "two-sum",
   "valid-parentheses",
