@@ -7,3 +7,4 @@
 - **Add Two Numbers** — solved on 2026-10-05 08:48
 - **Minimum Add to Make Parentheses Valid** — solved on 2026-10-06 08:27
 - **Remove Invalid Parentheses** — solved on 2026-10-07 02:28
+- **Remove Outermost Parentheses** — solved on 2026-10-08 08:04
