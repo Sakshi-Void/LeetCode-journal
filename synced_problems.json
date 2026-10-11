@@ -8,6 +8,7 @@
   "remove-invalid-parentheses",
   "remove-outermost-parentheses",
   "score-of-parentheses",
+  "sum-of-squares-of-special-elements",
   "two-sum",
   "valid-parentheses",
   "valid-parenthesis-string"

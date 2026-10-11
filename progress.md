@@ -10,3 +10,4 @@
 - **Remove Outermost Parentheses** — solved on 2026-10-08 08:04
 - **Minimum Insertions to Balance a Parentheses String** — solved on 2026-10-09 15:30
 - **Minimum Sum of Squared Difference** — solved on 2026-10-10 16:18
+- **Sum of Squares of Special Elements ** — solved on 2026-10-11 14:51
