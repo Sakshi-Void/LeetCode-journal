@@ -11,3 +11,4 @@
 - **Minimum Insertions to Balance a Parentheses String** — solved on 2026-10-09 15:30
 - **Minimum Sum of Squared Difference** — solved on 2026-10-10 16:18
 - **Sum of Squares of Special Elements ** — solved on 2026-10-11 14:51
+- **Apply Operations on Array to Maximize Sum of Squares** — solved on 2026-10-12 16:21
