@@ -13,3 +13,4 @@
 - **Sum of Squares of Special Elements ** — solved on 2026-10-11 14:51
 - **Apply Operations on Array to Maximize Sum of Squares** — solved on 2026-10-12 16:21
 - **Maximum Alternating Sum of Squares** — solved on 2026-10-13 05:48
+- **Maximize Sum of Squares of Digits** — solved on 2026-10-14 07:53
