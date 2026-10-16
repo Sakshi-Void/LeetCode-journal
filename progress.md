@@ -15,3 +15,4 @@
 - **Maximum Alternating Sum of Squares** — solved on 2026-10-13 05:48
 - **Maximize Sum of Squares of Digits** — solved on 2026-10-14 07:53
 - **Subarrays Distinct Element Sum of Squares I** — solved on 2026-10-15 13:41
+- **Subarrays Distinct Element Sum of Squares II** — solved on 2026-10-16 13:22
