@@ -16,3 +16,4 @@
 - **Maximize Sum of Squares of Digits** — solved on 2026-10-14 07:53
 - **Subarrays Distinct Element Sum of Squares I** — solved on 2026-10-15 13:41
 - **Subarrays Distinct Element Sum of Squares II** — solved on 2026-10-16 13:22
+- **Minimum Swaps to Sort by Digit Sum** — solved on 2026-10-17 06:53
