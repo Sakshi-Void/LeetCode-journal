@@ -1,6 +1,7 @@
 [
   "add-two-numbers",
   "apply-operations-on-array-to-maximize-sum-of-squares",
+  "find-target-indices-after-sorting-array",
   "generate-parentheses",
   "longest-valid-parentheses",
   "maximize-sum-of-squares-of-digits",
