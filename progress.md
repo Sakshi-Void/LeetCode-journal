@@ -22,3 +22,4 @@
 - **Sum of Sortable Integers** — solved on 2026-10-20 07:46
 - **Minimum Operations to Sort a String** — solved on 2026-10-21 07:25
 - **Minimum Operations to Sort a Permutation** — solved on 2026-10-22 08:17
+- **Maximum K to Sort a Permutation** — solved on 2026-10-23 04:58
