@@ -24,3 +24,4 @@
 - **Minimum Operations to Sort a Permutation** — solved on 2026-10-22 08:17
 - **Maximum K to Sort a Permutation** — solved on 2026-10-23 04:58
 - **Count Days Spent Together** — solved on 2026-10-24 11:22
+- **Number of Closed Islands** — solved on 2026-10-25 16:14
