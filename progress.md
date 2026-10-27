@@ -26,3 +26,4 @@
 - **Count Days Spent Together** — solved on 2026-10-24 11:22
 - **Number of Closed Islands** — solved on 2026-10-25 16:14
 - **Count Islands With Total Value Divisible by K** — solved on 2026-10-26 08:49
+- **Create Grid With Exactly One Path** — solved on 2026-10-27 08:41
