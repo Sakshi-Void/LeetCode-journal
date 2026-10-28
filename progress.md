@@ -27,3 +27,4 @@
 - **Number of Closed Islands** — solved on 2026-10-25 16:14
 - **Count Islands With Total Value Divisible by K** — solved on 2026-10-26 08:49
 - **Create Grid With Exactly One Path** — solved on 2026-10-27 08:41
+- **Minimum XOR Path in a Grid** — solved on 2026-10-28 11:16
