@@ -23,6 +23,7 @@
   "remove-invalid-parentheses",
   "remove-outermost-parentheses",
   "score-of-parentheses",
+  "shortest-path-with-at-most-k-consecutive-identical-characters",
   "subarrays-distinct-element-sum-of-squares-i",
   "subarrays-distinct-element-sum-of-squares-ii",
   "sum-of-sortable-integers",

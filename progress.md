@@ -29,3 +29,4 @@
 - **Create Grid With Exactly One Path** — solved on 2026-10-27 08:41
 - **Minimum XOR Path in a Grid** — solved on 2026-10-28 11:16
 - **Palindromic Path Queries in a Tree** — solved on 2026-10-29 11:23
+- **Shortest Path With At Most K Consecutive Identical Characters** — solved on 2026-10-30 08:38
