@@ -31,3 +31,4 @@
 - **Palindromic Path Queries in a Tree** — solved on 2026-10-29 11:23
 - **Shortest Path With At Most K Consecutive Identical Characters** — solved on 2026-10-30 08:38
 - **Twisted Mirror Path Count** — solved on 2026-10-31 18:17
+- **Minimum Moves to Equal Array Elements** — solved on 2026-11-01 09:25
