@@ -33,3 +33,4 @@
 - **Twisted Mirror Path Count** — solved on 2026-10-31 18:17
 - **Minimum Moves to Equal Array Elements** — solved on 2026-11-01 09:25
 - **Minimum Moves to Equal Array Elements II** — solved on 2026-11-03 09:51
+- **Minimum Moves to Equal Array Elements III** — solved on 2026-11-03 09:52
