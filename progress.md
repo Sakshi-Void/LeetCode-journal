@@ -36,3 +36,4 @@
 - **Minimum Moves to Equal Array Elements III** — solved on 2026-11-03 09:52
 - **Minimum Moves to Equal Array Elements II** — solved on 2026-11-03 09:55
 - **Minimum Operations to Make Elements Within K Subarrays Equal** — solved on 2026-11-04 13:21
+- **Longest Substring Without Repeating Characters** — solved on 2026-11-04 13:24
