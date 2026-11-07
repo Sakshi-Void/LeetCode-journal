@@ -39,3 +39,4 @@
 - **Longest Substring Without Repeating Characters** — solved on 2026-11-04 13:24
 - **Find the Distance Value Between Two Arrays** — solved on 2026-11-05 09:54
 - **Count Zero Request Servers** — solved on 2026-11-06 12:08
+- **Process Tasks Using Servers** — solved on 2026-11-07 08:54
