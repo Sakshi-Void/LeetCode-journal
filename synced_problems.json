@@ -3,6 +3,7 @@
   "apply-operations-on-array-to-maximize-sum-of-squares",
   "count-days-spent-together",
   "count-islands-with-total-value-divisible-by-k",
+  "count-servers-that-communicate",
   "count-zero-request-servers",
   "create-grid-with-exactly-one-path",
   "find-target-indices-after-sorting-array",
