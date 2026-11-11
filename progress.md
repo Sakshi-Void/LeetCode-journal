@@ -43,3 +43,4 @@
 - **Count Servers that Communicate** — solved on 2026-11-08 06:41
 - **Find Servers That Handled Most Number of Requests** — solved on 2026-11-09 12:21
 - **Climbing Stairs II** — solved on 2026-11-10 14:28
+- **Minimum Cost to Acquire Required Items** — solved on 2026-11-11 09:28
