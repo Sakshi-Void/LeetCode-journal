@@ -11,6 +11,7 @@
   "find-target-indices-after-sorting-array",
   "find-the-distance-value-between-two-arrays",
   "generate-parentheses",
+  "longest-strictly-increasing-or-strictly-decreasing-subarray",
   "longest-substring-without-repeating-characters",
   "longest-valid-parentheses",
   "maximize-sum-of-squares-of-digits",
