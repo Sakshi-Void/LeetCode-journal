@@ -48,3 +48,4 @@
 - **Count Non-Decreasing Subarrays After K Operations** — solved on 2026-11-13 09:32
 - **Minimum Positive Sum Subarray ** — solved on 2026-11-14 16:28
 - **Number of Sub-arrays With Odd Sum** — solved on 2026-11-15 10:27
+- **Calculate Digit Sum of a String** — solved on 2026-11-16 02:01
