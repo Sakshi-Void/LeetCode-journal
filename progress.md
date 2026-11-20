@@ -52,3 +52,4 @@
 - **Minimum Changes to Make K Semi-palindromes** — solved on 2026-11-17 10:29
 - **Minimum Number of Changes to Make Binary String Beautiful** — solved on 2026-11-18 02:42
 - **Minimum Score by Changing Two Elements** — solved on 2026-11-19 09:41
+- **Maximize Consecutive Elements in an Array After Modification** — solved on 2026-11-20 12:19
