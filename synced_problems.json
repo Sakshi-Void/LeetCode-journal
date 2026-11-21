@@ -10,6 +10,7 @@
   "count-zero-request-servers",
   "create-grid-with-exactly-one-path",
   "find-servers-that-handled-most-number-of-requests",
+  "find-subtree-sizes-after-changes",
   "find-target-indices-after-sorting-array",
   "find-the-distance-value-between-two-arrays",
   "generate-parentheses",
