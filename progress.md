@@ -54,3 +54,4 @@
 - **Minimum Score by Changing Two Elements** — solved on 2026-11-19 09:41
 - **Maximize Consecutive Elements in an Array After Modification** — solved on 2026-11-20 12:19
 - **Find Subtree Sizes After Changes** — solved on 2026-11-21 19:02
+- **Check if All A's Appears Before All B's** — solved on 2026-11-22 15:35
