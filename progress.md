@@ -57,3 +57,4 @@
 - **Check if All A's Appears Before All B's** — solved on 2026-11-22 15:35
 - **Product of the Last K Numbers** — solved on 2026-11-23 09:08
 - **Maximum Subarray With Equal Products** — solved on 2026-11-24 10:28
+- **Smallest Unique Subarray** — solved on 2026-11-25 09:15
