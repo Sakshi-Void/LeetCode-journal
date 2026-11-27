@@ -59,3 +59,4 @@
 - **Maximum Subarray With Equal Products** — solved on 2026-11-24 10:28
 - **Smallest Unique Subarray** — solved on 2026-11-25 09:15
 - **Stone Removal Game** — solved on 2026-11-26 14:01
+- **Maximum Number of Items From Sale I** — solved on 2026-11-27 13:08
